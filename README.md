@@ -1,2 +1,2 @@
 # kTools
-these are the tools built by me for hacking
+These are the simple tools i built whioe learning ethical hacking
